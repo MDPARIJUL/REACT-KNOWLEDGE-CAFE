@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/drbwgH9/freepik.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/jJkc4pM/profile.png",
+        "posted_date": "2024-01-15",
+        "reading_time": 5,
+        "hashtag": ["#fiction", "#adventure", "#mystery"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/drbwgH9/freepik.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/jJkc4pM/profile.png",
+        "posted_date": "2024-02-10",
+        "reading_time": 7,
+        "hashtag": ["#nonfiction", "#nature", "#ocean"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/drbwgH9/freepik.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co.com/jJkc4pM/profile.png",
+        "posted_date": "2024-03-05",
+        "reading_time": 10,
+        "hashtag": ["#cooking", "#recipes", "#food"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/drbwgH9/freepik.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co.com/jJkc4pM/profile.png",
+        "posted_date": "2024-04-12",
+        "reading_time": 8,
+        "hashtag": ["#history", "#travel", "#exploration"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/drbwgH9/freepik.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Sarah Wilson",
+        "author_img": "https://i.ibb.co.com/jJkc4pM/profile.png",
+        "posted_date": "2024-05-20",
+        "reading_time": 6,
+        "hashtag": ["#wellness", "#mindfulness", "#meditation"]
+    }
+]
